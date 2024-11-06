@@ -2,6 +2,28 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.0 - 2024-11-06
+#### Documentation
+- **(LICENSE)** Create LICENSE - (cd9d7bd) - Corentin Giaufer Saubert
+#### Features
+- **(string)** ✨ convert string to typed integer - (1829b92) - CorentinGS
+
+- - -
+
+## 0.0.1-alpha.1 - 2024-11-06
+#### Build system
+- **(cog)** 🔧 add cog for versionning - (ebbbedc) - CorentinGS
+- **(devcontainer)** 🔧 use devcontainer for development workflow - (4ab3e1a) - CorentinGS
+#### Documentation
+- **(readme)** 📝 minimal readme - (9fe86ed) - CorentinGS
+- **(readme)** 📝 add readme file - (abbd673) - CorentinGS
+#### Features
+- **(int)** ✨ convert int/uint safely - (2f95f6f) - CorentinGS
+#### Miscellaneous Chores
+- **(version)** 0.0.1-alpha.1 - (26e0c27) - CorentinGS
+
+- - -
+
 ## 0.0.1-alpha.1 - 2024-10-01
 #### Build system
 - **(cog)** 🔧 add cog for versionning - (ebbbedc) - CorentinGS
